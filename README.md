@@ -23,7 +23,7 @@ Since we have 4 files, vitest sees 4 test suites. Within these 4 suites, we have
 Fixing the code will make the tests pass and show in green in the console. Here is the vitest output when all the tests pass.
 
 
-<img width="600" alt="all tests pass" src="https://user-images.githubusercontent.com/13385801/189547353-39dcd4d1-20d3-4b31-9bee-e7b044cfc092.png">
+<img width="600" alt="all tests pass" src="https://user-images.githubusercontent.co   m/13385801/189547353-39dcd4d1-20d3-4b31-9bee-e7b044cfc092.png">
 
 
 # Instructions
